@@ -10,7 +10,7 @@ no more than 255 users. To draw minimally
 hardware connection and to write a suitable
 assembly program based on µP 8085A.
 
-![Screenshot (1)]()
+![Screenshot (1)](https://github.com/tamaraatanasova/8085-Zadaca5/blob/main/slika1.png)
 
 Exercise of Low Level Programming with 8085 Assembly Lecture
 
